@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #ff0202;
+    background-color: #000000;
 }
 li {
     float: left;
@@ -17,5 +17,5 @@ li a {
 }
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #000000;
+    background-color: #ffffff;
 }
